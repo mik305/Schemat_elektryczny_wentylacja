@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <Properties>
- <Property name="Identyfikacja obiektu" id="2000" index="0" type="7">75/14/1/0</Property>
+ <Property name="Identyfikacja obiektu" id="2000" index="0" type="7">28/14/1/0</Property>
  <Property name="Ostatnio opracował: Identyfikator" id="3010" index="0" type="7"/>
  <Property name="Ostatnio opracował: Nazwisko" id="3011" index="0" type="7"/>
  <Property name="Ostatnio opracował: Telefon" id="3012" index="0" type="7"/>
@@ -26,9 +26,9 @@
  <Property name="Utworzył" id="10020" index="0" type="7">mt150</Property>
  <Property name="Data utworzenia" id="10021" index="0" type="14">1718201269</Property>
  <Property name="Ostatnio opracował: Nazwa użytkownika" id="10022" index="0" type="7">mt150</Property>
- <Property name="Data zmiany" id="10023" index="0" type="14">1746915251</Property>
+ <Property name="Data zmiany" id="10023" index="0" type="14">1747301196</Property>
  <Property name="Ostatnie tłumaczenie na obce języki: Data" id="10024" index="0" type="14">1716887398</Property>
- <Property name="Data dzienna" id="10027" index="0" type="14">1746915251</Property>
+ <Property name="Data dzienna" id="10027" index="0" type="14">1747301196</Property>
  <Property name="Początek projektu" id="10028" index="0" type="14">1746889493</Property>
  <Property name="Nadrzędne formaty struktury" id="10029" index="0" type="7">4&#9;0&#9;0&#9;0&#9;0</Property>
  <Property name="Środowisko specjalne" id="10034" index="0" type="15">de_DE@keine;en_US@None;nl_NL@geen;fr_FR@aucune;es_ES@ninguno;sv_SE@ingen;da_DK@ingen;zh_CN@无;ru_RU@нет;pl_PL@brak;pt_BR@nenhum;cs_CZ@žádné;it_IT@nessuna;hu_HU@nincs;pt_PT@nenhum;ko_KR@없음;ja_JP@なし;tr_TR@yok;ro_RO@niciunul/niciuna;zh_TW@無;</Property>
@@ -36,7 +36,7 @@
  <Property name="Numer kompilacji ostatniej zmiany lub aktualizacji EPLAN" id="10044" index="0" type="7">23616</Property>
  <Property name="Ścieżka projektu (pełna nazwa)" id="10045" index="0" type="7">C:\STUDIA\Schemat_elektryczny_wentylacja</Property>
  <Property name="Czas utworzenia" id="10046" index="0" type="7">16:07:49</Property>
- <Property name="Czas zmiany" id="10047" index="0" type="7">00:14:11</Property>
+ <Property name="Czas zmiany" id="10047" index="0" type="7">11:26:36</Property>
  <Property name="Ostatnie tłumaczenie na obce języki: Czas" id="10048" index="0" type="7">11:09:58</Property>
  <Property name="Format struktury dla stron" id="10050" index="0" type="7">&lt;10002&gt;&lt;10004&gt;&lt;10006&gt;&lt;11012&gt;&lt;11013&gt;</Property>
  <Property name="Format struktury dla strzałek potencjałowych" id="10051" index="0" type="7">&lt;10002&gt;&lt;20012&gt;&lt;20013&gt;&lt;20014&gt;&lt;20015&gt;</Property>
@@ -45,7 +45,7 @@
  <Property name="Format struktury dla zasobów ogólnych" id="10055" index="0" type="7">&lt;10002&gt;&lt;10004&gt;&lt;20012&gt;&lt;20013&gt;&lt;20014&gt;&lt;20015&gt;&lt;20016&gt;&lt;20017&gt;&lt;20018&gt;&lt;20019&gt;</Property>
  <Property name="Format struktury dla Black Boxów" id="10056" index="0" type="7">&lt;10002&gt;&lt;10004&gt;&lt;20012&gt;&lt;20013&gt;&lt;20014&gt;&lt;20015&gt;&lt;20016&gt;&lt;20017&gt;&lt;20018&gt;&lt;20019&gt;</Property>
  <Property name="Format struktury dla techniki PLC / magistrali" id="10057" index="0" type="7">&lt;10002&gt;&lt;10004&gt;&lt;20012&gt;&lt;20013&gt;&lt;20014&gt;&lt;20015&gt;&lt;20016&gt;&lt;20017&gt;&lt;20018&gt;&lt;20019&gt;</Property>
- <Property name="Pora dnia" id="10058" index="0" type="14">1746915251</Property>
+ <Property name="Pora dnia" id="10058" index="0" type="14">1747301196</Property>
  <Property name="Format struktury dla list zaciskowych" id="10059" index="0" type="7">&lt;10004&gt;&lt;20012&gt;&lt;20013&gt;&lt;20014&gt;&lt;20015&gt;&lt;20016&gt;&lt;20017&gt;&lt;20018&gt;&lt;20019&gt;</Property>
  <Property name="Format struktury dla wtyczek" id="10060" index="0" type="7">&lt;10004&gt;&lt;20012&gt;&lt;20013&gt;&lt;20014&gt;&lt;20015&gt;&lt;20016&gt;&lt;20017&gt;&lt;20018&gt;&lt;20019&gt;</Property>
  <Property name="Format struktury dla kabli" id="10061" index="0" type="7">&lt;10004&gt;&lt;20012&gt;&lt;20013&gt;&lt;20014&gt;&lt;20015&gt;&lt;20016&gt;&lt;20017&gt;&lt;20018&gt;&lt;20019&gt;</Property>
@@ -218,7 +218,7 @@
  <Property name="Utworzył: Województwo" id="10239" index="0" type="7">Deutschland</Property>
  <Property name="Utworzył: Telefon" id="10240" index="0" type="7">+49 (0)2173 - 39 64 - 0</Property>
  <Property name="Utworzył: Faks" id="10241" index="0" type="7">+49 (0)2173 - 39 64 - 25</Property>
- <Property name="Ostatnia data zmian dla typu stron" id="10250" index="1" type="14">1746891921</Property>
+ <Property name="Ostatnia data zmian dla typu stron" id="10250" index="1" type="14">1747300806</Property>
  <Property name="Ostatnia data zmian dla typu stron" id="10250" index="2" type="14"/>
  <Property name="Ostatnia data zmian dla typu stron" id="10250" index="3" type="14"/>
  <Property name="Ostatnia data zmian dla typu stron" id="10250" index="4" type="14"/>
@@ -281,7 +281,7 @@
  <Property name="Ostatnia data zmian dla typu stron" id="10250" index="61" type="14"/>
  <Property name="Ostatnia data zmian dla typu stron" id="10250" index="62" type="14"/>
  <Property name="Ostatnia data zmian dla typu stron" id="10250" index="63" type="14"/>
- <Property name="Ostatni czas zmian dla typu stron" id="10251" index="1" type="7">17:45:21</Property>
+ <Property name="Ostatni czas zmian dla typu stron" id="10251" index="1" type="7">11:20:06</Property>
  <Property name="Ostatni czas zmian dla typu stron" id="10251" index="2" type="7"/>
  <Property name="Ostatni czas zmian dla typu stron" id="10251" index="3" type="7"/>
  <Property name="Ostatni czas zmian dla typu stron" id="10251" index="4" type="7"/>
