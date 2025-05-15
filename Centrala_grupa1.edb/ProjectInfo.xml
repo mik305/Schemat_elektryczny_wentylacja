@@ -26,9 +26,9 @@
  <Property name="Utworzył" id="10020" index="0" type="7">mt150</Property>
  <Property name="Data utworzenia" id="10021" index="0" type="14">1718201269</Property>
  <Property name="Ostatnio opracował: Nazwa użytkownika" id="10022" index="0" type="7">mt150</Property>
- <Property name="Data zmiany" id="10023" index="0" type="14">1747301196</Property>
+ <Property name="Data zmiany" id="10023" index="0" type="14">1747330352</Property>
  <Property name="Ostatnie tłumaczenie na obce języki: Data" id="10024" index="0" type="14">1716887398</Property>
- <Property name="Data dzienna" id="10027" index="0" type="14">1747301196</Property>
+ <Property name="Data dzienna" id="10027" index="0" type="14">1747330352</Property>
  <Property name="Początek projektu" id="10028" index="0" type="14">1746889493</Property>
  <Property name="Nadrzędne formaty struktury" id="10029" index="0" type="7">4&#9;0&#9;0&#9;0&#9;0</Property>
  <Property name="Środowisko specjalne" id="10034" index="0" type="15">de_DE@keine;en_US@None;nl_NL@geen;fr_FR@aucune;es_ES@ninguno;sv_SE@ingen;da_DK@ingen;zh_CN@无;ru_RU@нет;pl_PL@brak;pt_BR@nenhum;cs_CZ@žádné;it_IT@nessuna;hu_HU@nincs;pt_PT@nenhum;ko_KR@없음;ja_JP@なし;tr_TR@yok;ro_RO@niciunul/niciuna;zh_TW@無;</Property>
@@ -36,7 +36,7 @@
  <Property name="Numer kompilacji ostatniej zmiany lub aktualizacji EPLAN" id="10044" index="0" type="7">23616</Property>
  <Property name="Ścieżka projektu (pełna nazwa)" id="10045" index="0" type="7">C:\STUDIA\Schemat_elektryczny_wentylacja</Property>
  <Property name="Czas utworzenia" id="10046" index="0" type="7">16:07:49</Property>
- <Property name="Czas zmiany" id="10047" index="0" type="7">11:26:36</Property>
+ <Property name="Czas zmiany" id="10047" index="0" type="7">19:32:32</Property>
  <Property name="Ostatnie tłumaczenie na obce języki: Czas" id="10048" index="0" type="7">11:09:58</Property>
  <Property name="Format struktury dla stron" id="10050" index="0" type="7">&lt;10002&gt;&lt;10004&gt;&lt;10006&gt;&lt;11012&gt;&lt;11013&gt;</Property>
  <Property name="Format struktury dla strzałek potencjałowych" id="10051" index="0" type="7">&lt;10002&gt;&lt;20012&gt;&lt;20013&gt;&lt;20014&gt;&lt;20015&gt;</Property>
@@ -45,7 +45,7 @@
  <Property name="Format struktury dla zasobów ogólnych" id="10055" index="0" type="7">&lt;10002&gt;&lt;10004&gt;&lt;20012&gt;&lt;20013&gt;&lt;20014&gt;&lt;20015&gt;&lt;20016&gt;&lt;20017&gt;&lt;20018&gt;&lt;20019&gt;</Property>
  <Property name="Format struktury dla Black Boxów" id="10056" index="0" type="7">&lt;10002&gt;&lt;10004&gt;&lt;20012&gt;&lt;20013&gt;&lt;20014&gt;&lt;20015&gt;&lt;20016&gt;&lt;20017&gt;&lt;20018&gt;&lt;20019&gt;</Property>
  <Property name="Format struktury dla techniki PLC / magistrali" id="10057" index="0" type="7">&lt;10002&gt;&lt;10004&gt;&lt;20012&gt;&lt;20013&gt;&lt;20014&gt;&lt;20015&gt;&lt;20016&gt;&lt;20017&gt;&lt;20018&gt;&lt;20019&gt;</Property>
- <Property name="Pora dnia" id="10058" index="0" type="14">1747301196</Property>
+ <Property name="Pora dnia" id="10058" index="0" type="14">1747330352</Property>
  <Property name="Format struktury dla list zaciskowych" id="10059" index="0" type="7">&lt;10004&gt;&lt;20012&gt;&lt;20013&gt;&lt;20014&gt;&lt;20015&gt;&lt;20016&gt;&lt;20017&gt;&lt;20018&gt;&lt;20019&gt;</Property>
  <Property name="Format struktury dla wtyczek" id="10060" index="0" type="7">&lt;10004&gt;&lt;20012&gt;&lt;20013&gt;&lt;20014&gt;&lt;20015&gt;&lt;20016&gt;&lt;20017&gt;&lt;20018&gt;&lt;20019&gt;</Property>
  <Property name="Format struktury dla kabli" id="10061" index="0" type="7">&lt;10004&gt;&lt;20012&gt;&lt;20013&gt;&lt;20014&gt;&lt;20015&gt;&lt;20016&gt;&lt;20017&gt;&lt;20018&gt;&lt;20019&gt;</Property>
@@ -146,7 +146,7 @@
  <Property name="Rewizja: Nazwa projektu pierwotnego" id="10149" index="0" type="7"/>
  <Property name="Jednoznaczne ID projektu" id="10184" index="0" type="7">EPLAN_Tutorial@1746889491</Property>
  <Property name="Numer licencji klucza sprzętowego" id="10185" index="0" type="7">EPLSNRTAWH</Property>
- <Property name="Liczba stron na typ strony" id="10200" index="1" type="4">7</Property>
+ <Property name="Liczba stron na typ strony" id="10200" index="1" type="4">5</Property>
  <Property name="Liczba stron na typ strony" id="10200" index="2" type="4">0</Property>
  <Property name="Liczba stron na typ strony" id="10200" index="3" type="4">0</Property>
  <Property name="Liczba stron na typ strony" id="10200" index="4" type="4">0</Property>
@@ -218,7 +218,7 @@
  <Property name="Utworzył: Województwo" id="10239" index="0" type="7">Deutschland</Property>
  <Property name="Utworzył: Telefon" id="10240" index="0" type="7">+49 (0)2173 - 39 64 - 0</Property>
  <Property name="Utworzył: Faks" id="10241" index="0" type="7">+49 (0)2173 - 39 64 - 25</Property>
- <Property name="Ostatnia data zmian dla typu stron" id="10250" index="1" type="14">1747300806</Property>
+ <Property name="Ostatnia data zmian dla typu stron" id="10250" index="1" type="14">1747310972</Property>
  <Property name="Ostatnia data zmian dla typu stron" id="10250" index="2" type="14"/>
  <Property name="Ostatnia data zmian dla typu stron" id="10250" index="3" type="14"/>
  <Property name="Ostatnia data zmian dla typu stron" id="10250" index="4" type="14"/>
@@ -281,7 +281,7 @@
  <Property name="Ostatnia data zmian dla typu stron" id="10250" index="61" type="14"/>
  <Property name="Ostatnia data zmian dla typu stron" id="10250" index="62" type="14"/>
  <Property name="Ostatnia data zmian dla typu stron" id="10250" index="63" type="14"/>
- <Property name="Ostatni czas zmian dla typu stron" id="10251" index="1" type="7">11:20:06</Property>
+ <Property name="Ostatni czas zmian dla typu stron" id="10251" index="1" type="7">14:09:32</Property>
  <Property name="Ostatni czas zmian dla typu stron" id="10251" index="2" type="7"/>
  <Property name="Ostatni czas zmian dla typu stron" id="10251" index="3" type="7"/>
  <Property name="Ostatni czas zmian dla typu stron" id="10251" index="4" type="7"/>
@@ -331,8 +331,8 @@
  <Property name="Ostatni czas zmian dla typu stron" id="10251" index="48" type="7"/>
  <Property name="Ostatni czas zmian dla typu stron" id="10251" index="49" type="7"/>
  <Property name="Ostatni czas zmian dla typu stron" id="10251" index="50" type="7"/>
- <Property name="Ogólna liczba stron" id="10300" index="0" type="4">7</Property>
- <Property name="Wprowadzone strony" id="10301" index="0" type="4">7</Property>
+ <Property name="Ogólna liczba stron" id="10300" index="0" type="4">5</Property>
+ <Property name="Wprowadzone strony" id="10301" index="0" type="4">5</Property>
  <Property name="Utworzone strony zestawienia" id="10302" index="0" type="4">0</Property>
  <Property name="Status projektu" id="10303" index="0" type="7">11&#9;1&#9;Zaciski&#9;&#9;&#9;&#9;0&#9;0&#9;0&#9;2&#9;Wtyczki&#9;&#9;&#9;&#9;0&#9;0&#9;0&#9;3&#9;Kable&#9;&#9;&#9;&#9;0&#9;0&#9;0&#9;4&#9;PLC / magistrala&#9;&#9;&#9;&#9;0&#9;0&#9;0&#9;5&#9;Połączenia&#9;&#9;&#9;&#9;0&#9;0&#9;0&#9;7&#9;Urządzenia&#9;&#9;&#9;&#9;0&#9;0&#9;0&#9;8&#9;Języki obce&#9;&#9;&#9;&#9;0&#9;0&#9;0&#9;10&#9;Powiązania&#9;&#9;&#9;&#9;0&#9;0&#9;0&#9;11&#9;Strzałki potencjałowe&#9;&#9;&#9;&#9;0&#9;0&#9;0&#9;12&#9;Układ szafy sterowniczej 2D&#9;&#9;&#9;&#9;0&#9;0&#9;0&#9;13&#9;Dane artykułu&#9;&#9;&#9;&#9;0&#9;0&#9;0&#9;14&#9;Makro&#9;&#9;&#9;&#9;0&#9;0&#9;0&#9;15&#9;Zestawienia&#9;&#9;&#9;&#9;0&#9;0&#9;0&#9;16&#9;Black Boxy&#9;&#9;&#9;&#9;0&#9;0&#9;0&#9;17&#9;ID&#9;&#9;&#9;&#9;0&#9;0&#9;0&#9;18&#9;Przejęcie danych z EPLAN 5&#9;&#9;&#9;&#9;0&#9;0&#9;0&#9;19&#9;Przejęcie danych z EPLAN 21&#9;&#9;&#9;&#9;0&#9;0&#9;0&#9;20&#9;Porównanie projektów&#9;&#9;&#9;&#9;0&#9;0&#9;0&#9;21&#9;Obiekty znaków-wypełniaczy&#9;&#9;&#9;&#9;0&#9;0&#9;0&#9;22&#9;Inne&#9;&#9;&#9;&#9;0&#9;0&#9;0&#9;24&#9;Płyny&#9;&#9;&#9;&#9;0&#9;0&#9;0&#9;25&#9;Ustawienia projektu&#9;&#9;&#9;&#9;0&#9;0&#9;0&#9;26&#9;Zabudowa 3D&#9;&#9;&#9;&#9;0&#9;0&#9;0&#9;27&#9;Topologia&#9;&#9;&#9;&#9;0&#9;0&#9;0&#9;28&#9;Planowanie wstępne&#9;&#9;&#9;&#9;0&#9;0&#9;0&#9;29&#9;Głębokość planowania wstępnego&#9;&#9;&#9;&#9;0&#9;0&#9;0&#9;30&#9;Projekty cząstkowe&#9;&#9;&#9;&#9;0&#9;0&#9;0&#9;32&#9;Schemat wierceń&#9;&#9;&#9;&#9;0&#9;0&#9;0&#9;33&#9;Kompletny kabel&#9;&#9;&#9;&#9;0&#9;0&#9;0&#9;501&#9;Dane zasadnicze artykułu&#9;&#9;&#9;&#9;0&#9;0&#9;0&#9;999&#9;Zewnętrzny&#9;&#9;&#9;&#9;0&#9;0&#9;0</Property>
  <Property name="Ilość obszarów zabudowy" id="10304" index="0" type="4">0</Property>
